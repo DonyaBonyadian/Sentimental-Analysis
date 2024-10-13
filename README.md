@@ -1,4 +1,4 @@
-# 📊 Sentiment Analysis and Text Mining Project
+# 📊 Sentiment Analysis and Text Mining 
 
 This project analyzes the sentiment of downloaded documents and performs text mining on their contents. Below are the steps involved:
 
